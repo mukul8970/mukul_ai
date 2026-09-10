@@ -1,6 +1,2 @@
-venv/
+mukul_users.db
 __pycache__/
-projects/*
-!projects/.gitkeep
-*.pyc
-.env
